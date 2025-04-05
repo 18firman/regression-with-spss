@@ -1,3 +1,7 @@
+![Built with SPSS](https://img.shields.io/badge/Built%20with-SPSS-blue?style=flat-square&logo=spss)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Repo Status](https://img.shields.io/badge/status-active-brightgreen.svg)
+
 # Regression with SPSS
 
 A collection of SPSS syntax files for performing simple linear regression analysis and testing its statistical assumptions.
